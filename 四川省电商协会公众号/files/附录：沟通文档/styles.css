@@ -1,0 +1,41 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(249, 249, 249, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1120px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u13526_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1075px;
+  height:1488px;
+}
+#u13526 {
+  position:absolute;
+  left:45px;
+  top:72px;
+  width:1075px;
+  height:1488px;
+  font-size:14px;
+}
+#u13527 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1075px;
+  word-wrap:break-word;
+}
