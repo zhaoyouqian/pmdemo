@@ -1,0 +1,39 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:837px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u49_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:701px;
+  height:650px;
+}
+#u49 {
+  position:absolute;
+  left:136px;
+  top:56px;
+  width:701px;
+  height:650px;
+}
+#u50 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:701px;
+  word-wrap:break-word;
+}
